@@ -49,4 +49,7 @@ Ensure you have **Python 3.x** installed. Install the required dependencies
 ## Future Enhancements  
 - 🚀 **Integrate Deep Learning** for better accuracy  
 - 📱 **Develop a Mobile App** for real-time monitoring  
-- 🌐 **Cloud-based Monitoring** for fleet management  
+- 🌐 **Cloud-based Monitoring** for fleet management
+
+## Raspberry Pi Integration
+This system can also be deployed on a Raspberry Pi for use in vehicles. The lightweight design and low power consumption make it ideal for in-car drowsiness detection systems.
